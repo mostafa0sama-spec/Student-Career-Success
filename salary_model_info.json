@@ -1,0 +1,7 @@
+{
+  "model_file": "best_starting_salary_pipeline.joblib",
+  "model_name": "Gradient Boosting Regressor",
+  "MAE_USD": 9852.777262748163,
+  "RMSE_USD": 11402.51259527945,
+  "R2": 0.2867736481134654
+}

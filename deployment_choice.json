@@ -1,0 +1,6 @@
+{
+  "type": "sklearn",
+  "model_file": "best_student_placement_pipeline.joblib",
+  "positive_class": "Not Placed",
+  "metric": "F1_Macro"
+}

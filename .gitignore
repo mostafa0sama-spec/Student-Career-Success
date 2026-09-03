@@ -1,0 +1,15 @@
+best_student_placement_pipeline.joblib 
+best_starting_salary_pipeline.joblib
+
+# Trained models
+*.joblib
+*.keras
+*.h5
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
